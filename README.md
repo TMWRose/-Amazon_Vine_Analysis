@@ -2,6 +2,8 @@
 
 ## Overview
 
+In this Module, we work as a data analyst at Big Market, a marketing agency. We have a client, $ellby, who wants to release a large amount of products on a retail website. They wanted to know how the reviews of their products compare to the reviews of similar products.
+
 ## Results
 
 ### **How many Vine reviews were there?**
