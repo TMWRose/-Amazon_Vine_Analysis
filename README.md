@@ -50,8 +50,9 @@ In this Module, we work as a data analyst at Big Market, a marketing agency. We 
 
 ## Summary
 
-I do not think there is a postivity bias in the Vine reviews program. There were only 38.2% 5-star reviews in the paid (Vine) reviews, while there were 54.5% 5-star reviews in the unpaid (non-Vine) reviews. Since there was a higher occurance of 5-stars in the unpaid reviews, then it stands to reason that Vine's reviews are acutally underrepresenting customer sentiment towards these products and don't have a positivity bias. 
+I do not think there is a positivity bias in the Vine reviews program. There were only 38.2% 5-star reviews in the paid (Vine) reviews, while there were 54.5% 5-star reviews in the unpaid (non-Vine) reviews. Since there was a higher occurrence of 5-stars in the unpaid reviews, then it stands to reason that Vine's reviews are actually underrepresenting customer sentiment towards these products and don't have a positivity bias. 
 
 To double check, an analysis can be done of all of the reviews (1 to 5-stars) to find the Vine/non-Vine counts and percentages to compare. They would have to be formatted into a table or graphic to be readable, but it would help visualize if there was a positivity bias. 
 
-We could also do an anlysis to find the percentage of all 5-star reviews (Vine & non-Vine) versus the percentage of just non-Vine reviews to see if there is a signifigant difference. 
+We could also do an analysis to find the percentage of all 5-star reviews (Vine & non-Vine) versus the percentage of just non-Vine reviews to see if there is a significant difference.
+ 
